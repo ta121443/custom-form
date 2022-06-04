@@ -1,7 +1,7 @@
 body {
-  background: rgb(114,13,148);
-background: linear-gradient(294deg, rgba(114,13,148,1) 0%, rgba(205,155,215,1) 100%);
-overflow-y: hidden;
+  background: rgb(193,54,16);
+  background: linear-gradient(320deg, rgba(193,54,16,1) 0%, rgba(246,210,204,1) 100%);
+  overflow-y: hidden;
 }
 
 .formContainer {
